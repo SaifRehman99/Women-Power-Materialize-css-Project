@@ -102,3 +102,12 @@ body {
     top: 230px;
     left: 5%;
 }
+
+@media(max-width:650px){
+    .text01 h1{
+        font-size: 40px;
+    }
+    .text01{
+        left: -42%;
+    }
+}
