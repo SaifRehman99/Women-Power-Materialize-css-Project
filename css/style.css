@@ -1,0 +1,99 @@
+body {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+#wrapper{
+    overflow: hidden;
+}
+.parallax-text {
+    position: absolute;
+    bottom: 200px;
+    margin: 0px 450px;
+    color: white;
+}
+.parallax-text h1 {
+    font-weight: bold;
+}
+.our {
+    height: 140px;
+    color: white;
+}
+.our h4 a{
+    font-weight: bold;
+    color: #fff;
+}
+.mission h4 a:hover {
+    color:#f06292;
+    transition: 0.2s;
+}
+.events h4 a:hover {
+    color:#64b5f6;
+    transition: 0.2s;
+}
+.involved h4 a:hover {
+    color:#0d47a1;
+    transition: 0.2s;
+}
+
+.head h1 {
+    font-weight: bold;
+}
+.latest-news {
+    margin: 0px 100px;
+    padding: 50px 0px;
+}
+.card-content p {
+    font-weight: bold;
+    font-size: 15px;
+}
+.waves-effect {
+    text-align: center;
+    margin: 40px 400px;
+}
+.bird-para {
+    padding: 30px 0px 10px 0px;
+}
+.bird-para h4{
+    margin: 0px 80px 14px 80px;
+}
+.upcoming {
+    margin: 100px 0px;
+}
+.upcoming-head h1 {
+    font-weight: bold;
+    margin-bottom:80px; 
+}
+.join-us {
+    color: white;
+    height: 400px;
+    width: 100%;
+}
+.join-us > h2,h5 {
+    margin: 20px 20px;
+}
+.join-us h2 {
+    font-weight: bold;
+}
+.footer-bold h5 {
+    font-weight: bold;
+}
+.women p span {
+    font-weight: bold;
+}
+.women p{
+    padding: 5px 0px;
+}
+.women {
+    margin: 40px 0px;
+}
+.quick-links {
+    line-height: 35px;
+}
+.first p {
+    margin: 0px 22px;
+}
